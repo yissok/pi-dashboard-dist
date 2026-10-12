@@ -1,0 +1,29 @@
+{
+  "version": 4,
+  "assets": "https://yissok.github.io/pi-dashboard-dist/releases/b2644922348a2e250e0935832c84254c817d49fa-38311558696-1",
+  "app": "pi-dashboard",
+  "global": "__sveltekit_41v3b0",
+  "start": "_app/immutable/entry/start.qZu8BOzw.js",
+  "appEntry": "_app/immutable/entry/app.DOLh4JFe.js",
+  "styles": [
+    "https://yissok.github.io/pi-dashboard-dist/releases/b2644922348a2e250e0935832c84254c817d49fa-38311558696-1/_app/immutable/assets/0.CZ--xDRG.css"
+  ],
+  "scripts": [
+    "https://yissok.github.io/pi-dashboard-dist/releases/b2644922348a2e250e0935832c84254c817d49fa-38311558696-1/vendor/browser-console.js"
+  ],
+  "preloads": [
+    "https://yissok.github.io/pi-dashboard-dist/releases/b2644922348a2e250e0935832c84254c817d49fa-38311558696-1/_app/immutable/entry/start.qZu8BOzw.js",
+    "https://yissok.github.io/pi-dashboard-dist/releases/b2644922348a2e250e0935832c84254c817d49fa-38311558696-1/_app/immutable/chunks/DOTsBGag.js",
+    "https://yissok.github.io/pi-dashboard-dist/releases/b2644922348a2e250e0935832c84254c817d49fa-38311558696-1/_app/immutable/chunks/ChnvD04w.js",
+    "https://yissok.github.io/pi-dashboard-dist/releases/b2644922348a2e250e0935832c84254c817d49fa-38311558696-1/_app/immutable/entry/app.DOLh4JFe.js",
+    "https://yissok.github.io/pi-dashboard-dist/releases/b2644922348a2e250e0935832c84254c817d49fa-38311558696-1/_app/immutable/chunks/BolKXmtc.js",
+    "https://yissok.github.io/pi-dashboard-dist/releases/b2644922348a2e250e0935832c84254c817d49fa-38311558696-1/_app/immutable/chunks/C3q3bkEI.js",
+    "https://yissok.github.io/pi-dashboard-dist/releases/b2644922348a2e250e0935832c84254c817d49fa-38311558696-1/_app/immutable/chunks/D-GlzL5c.js",
+    "https://yissok.github.io/pi-dashboard-dist/releases/b2644922348a2e250e0935832c84254c817d49fa-38311558696-1/_app/immutable/nodes/0.B5u35gR6.js",
+    "https://yissok.github.io/pi-dashboard-dist/releases/b2644922348a2e250e0935832c84254c817d49fa-38311558696-1/_app/immutable/chunks/BuK-wupj.js"
+  ],
+  "social": {
+    "title": "Pi Dashboard",
+    "description": "An interactive website created with Project Factory."
+  }
+}
