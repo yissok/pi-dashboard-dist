@@ -1,26 +1,26 @@
 {
   "version": 4,
-  "assets": "https://yissok.github.io/pi-dashboard-dist/releases/c23e548e60e6835fdf6bfaa36b532b7b17f4abec-38561349205-1",
+  "assets": "https://yissok.github.io/pi-dashboard-dist/releases/f3f216a95bf48b673c25dfa4f000b17dfd1ae65f-38565322987-1",
   "app": "pi-dashboard",
-  "global": "__sveltekit_1looy8m",
-  "start": "_app/immutable/entry/start.DBagHxzW.js",
-  "appEntry": "_app/immutable/entry/app.DsbzGFAI.js",
+  "global": "__sveltekit_1shiqza",
+  "start": "_app/immutable/entry/start.D7RIKKxz.js",
+  "appEntry": "_app/immutable/entry/app.DVX3G93V.js",
   "styles": [
-    "https://yissok.github.io/pi-dashboard-dist/releases/c23e548e60e6835fdf6bfaa36b532b7b17f4abec-38561349205-1/_app/immutable/assets/0.CZ--xDRG.css"
+    "https://yissok.github.io/pi-dashboard-dist/releases/f3f216a95bf48b673c25dfa4f000b17dfd1ae65f-38565322987-1/_app/immutable/assets/0.CZ--xDRG.css"
   ],
   "scripts": [
-    "https://yissok.github.io/pi-dashboard-dist/releases/c23e548e60e6835fdf6bfaa36b532b7b17f4abec-38561349205-1/vendor/browser-console.js"
+    "https://yissok.github.io/pi-dashboard-dist/releases/f3f216a95bf48b673c25dfa4f000b17dfd1ae65f-38565322987-1/vendor/browser-console.js"
   ],
   "preloads": [
-    "https://yissok.github.io/pi-dashboard-dist/releases/c23e548e60e6835fdf6bfaa36b532b7b17f4abec-38561349205-1/_app/immutable/entry/start.DBagHxzW.js",
-    "https://yissok.github.io/pi-dashboard-dist/releases/c23e548e60e6835fdf6bfaa36b532b7b17f4abec-38561349205-1/_app/immutable/chunks/DOTsBGag.js",
-    "https://yissok.github.io/pi-dashboard-dist/releases/c23e548e60e6835fdf6bfaa36b532b7b17f4abec-38561349205-1/_app/immutable/chunks/Rc3hco_k.js",
-    "https://yissok.github.io/pi-dashboard-dist/releases/c23e548e60e6835fdf6bfaa36b532b7b17f4abec-38561349205-1/_app/immutable/entry/app.DsbzGFAI.js",
-    "https://yissok.github.io/pi-dashboard-dist/releases/c23e548e60e6835fdf6bfaa36b532b7b17f4abec-38561349205-1/_app/immutable/chunks/BolKXmtc.js",
-    "https://yissok.github.io/pi-dashboard-dist/releases/c23e548e60e6835fdf6bfaa36b532b7b17f4abec-38561349205-1/_app/immutable/chunks/C3q3bkEI.js",
-    "https://yissok.github.io/pi-dashboard-dist/releases/c23e548e60e6835fdf6bfaa36b532b7b17f4abec-38561349205-1/_app/immutable/chunks/D-GlzL5c.js",
-    "https://yissok.github.io/pi-dashboard-dist/releases/c23e548e60e6835fdf6bfaa36b532b7b17f4abec-38561349205-1/_app/immutable/nodes/0.B5u35gR6.js",
-    "https://yissok.github.io/pi-dashboard-dist/releases/c23e548e60e6835fdf6bfaa36b532b7b17f4abec-38561349205-1/_app/immutable/chunks/BuK-wupj.js"
+    "https://yissok.github.io/pi-dashboard-dist/releases/f3f216a95bf48b673c25dfa4f000b17dfd1ae65f-38565322987-1/_app/immutable/entry/start.D7RIKKxz.js",
+    "https://yissok.github.io/pi-dashboard-dist/releases/f3f216a95bf48b673c25dfa4f000b17dfd1ae65f-38565322987-1/_app/immutable/chunks/DOTsBGag.js",
+    "https://yissok.github.io/pi-dashboard-dist/releases/f3f216a95bf48b673c25dfa4f000b17dfd1ae65f-38565322987-1/_app/immutable/chunks/36ed_LIp.js",
+    "https://yissok.github.io/pi-dashboard-dist/releases/f3f216a95bf48b673c25dfa4f000b17dfd1ae65f-38565322987-1/_app/immutable/entry/app.DVX3G93V.js",
+    "https://yissok.github.io/pi-dashboard-dist/releases/f3f216a95bf48b673c25dfa4f000b17dfd1ae65f-38565322987-1/_app/immutable/chunks/BolKXmtc.js",
+    "https://yissok.github.io/pi-dashboard-dist/releases/f3f216a95bf48b673c25dfa4f000b17dfd1ae65f-38565322987-1/_app/immutable/chunks/C3q3bkEI.js",
+    "https://yissok.github.io/pi-dashboard-dist/releases/f3f216a95bf48b673c25dfa4f000b17dfd1ae65f-38565322987-1/_app/immutable/chunks/D-GlzL5c.js",
+    "https://yissok.github.io/pi-dashboard-dist/releases/f3f216a95bf48b673c25dfa4f000b17dfd1ae65f-38565322987-1/_app/immutable/nodes/0.B5u35gR6.js",
+    "https://yissok.github.io/pi-dashboard-dist/releases/f3f216a95bf48b673c25dfa4f000b17dfd1ae65f-38565322987-1/_app/immutable/chunks/BuK-wupj.js"
   ],
   "social": {
     "title": "Pi Dashboard",
