@@ -1,0 +1,32 @@
+{
+  "version": 4,
+  "assets": "https://yissok.github.io/pi-dashboard-dist/releases/2e1fc7df7e95618ca9af8b1cc7d8eba7004a87c1-45796256382-1",
+  "app": "pi-dashboard",
+  "global": "__sveltekit_yophxa",
+  "start": "_app/immutable/entry/start.CIuMJMPC.js",
+  "appEntry": "_app/immutable/entry/app._X0CnT2b.js",
+  "styles": [
+    "https://yissok.github.io/pi-dashboard-dist/releases/2e1fc7df7e95618ca9af8b1cc7d8eba7004a87c1-45796256382-1/_app/immutable/assets/0.CZ--xDRG.css"
+  ],
+  "scripts": [
+    "https://yissok.github.io/pi-dashboard-dist/releases/2e1fc7df7e95618ca9af8b1cc7d8eba7004a87c1-45796256382-1/vendor/browser-console.js"
+  ],
+  "preloads": [
+    "https://yissok.github.io/pi-dashboard-dist/releases/2e1fc7df7e95618ca9af8b1cc7d8eba7004a87c1-45796256382-1/_app/immutable/entry/start.CIuMJMPC.js",
+    "https://yissok.github.io/pi-dashboard-dist/releases/2e1fc7df7e95618ca9af8b1cc7d8eba7004a87c1-45796256382-1/_app/immutable/chunks/CUT3wqgC.js",
+    "https://yissok.github.io/pi-dashboard-dist/releases/2e1fc7df7e95618ca9af8b1cc7d8eba7004a87c1-45796256382-1/_app/immutable/chunks/Bq346yDx.js",
+    "https://yissok.github.io/pi-dashboard-dist/releases/2e1fc7df7e95618ca9af8b1cc7d8eba7004a87c1-45796256382-1/_app/immutable/chunks/DHaBCe0R.js",
+    "https://yissok.github.io/pi-dashboard-dist/releases/2e1fc7df7e95618ca9af8b1cc7d8eba7004a87c1-45796256382-1/_app/immutable/chunks/gvTCtGyd.js",
+    "https://yissok.github.io/pi-dashboard-dist/releases/2e1fc7df7e95618ca9af8b1cc7d8eba7004a87c1-45796256382-1/_app/immutable/entry/app._X0CnT2b.js",
+    "https://yissok.github.io/pi-dashboard-dist/releases/2e1fc7df7e95618ca9af8b1cc7d8eba7004a87c1-45796256382-1/_app/immutable/chunks/BWLgdMVd.js",
+    "https://yissok.github.io/pi-dashboard-dist/releases/2e1fc7df7e95618ca9af8b1cc7d8eba7004a87c1-45796256382-1/_app/immutable/chunks/BRhQaRS9.js",
+    "https://yissok.github.io/pi-dashboard-dist/releases/2e1fc7df7e95618ca9af8b1cc7d8eba7004a87c1-45796256382-1/_app/immutable/chunks/BmlmTeh6.js",
+    "https://yissok.github.io/pi-dashboard-dist/releases/2e1fc7df7e95618ca9af8b1cc7d8eba7004a87c1-45796256382-1/_app/immutable/nodes/0.BBo7wd3c.js",
+    "https://yissok.github.io/pi-dashboard-dist/releases/2e1fc7df7e95618ca9af8b1cc7d8eba7004a87c1-45796256382-1/_app/immutable/chunks/CXPpPX5S.js"
+  ],
+  "social": {
+    "title": "Pi Dashboard",
+    "description": "An interactive website created with Project Factory."
+  },
+  "viewport": "width=device-width, initial-scale=1, viewport-fit=cover"
+}
